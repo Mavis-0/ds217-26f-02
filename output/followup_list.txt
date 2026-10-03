@@ -1,0 +1,7 @@
+Cutoff: 145 mmHg
+Reason: I chose 145 mmHg to include  patients with elevated readings for follow-up.
+P006
+P011
+P014
+P018
+P025
